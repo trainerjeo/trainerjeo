@@ -37,6 +37,6 @@ There is more projects, but they are private!
 
 ## 🌐 Contact Me!
 
-- **Discord**: [Your Discord Username](https://discord.com/users/579080596723335181)
+- **Discord**: [trainerjeo](https://discord.com/users/579080596723335181)
 
 ---
