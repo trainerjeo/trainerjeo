@@ -38,6 +38,6 @@ There is more projects, but they are private!
 
 ## 🌐 Contact Me!
 
-- **Discord**: Add me on discrd, my user is: trainerjeo 
+- **Discord**: Add me on discord, my user is: trainerjeo 
 
 ---
