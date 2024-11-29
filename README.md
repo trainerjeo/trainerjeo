@@ -14,7 +14,7 @@ Hey, I’m Jeo! I’m a Discord Bot developer, MCBE Developer, Web Develper. I h
 
 ## 🚀 Projects
 
-### 🧁 **[Muffin Bot](https://muffindiscord.github.io)**  
+### 🧁 **[Muffin Bot](https://muffindiscord.me)**  
 Muffin is a Discord bot that has muiltiple features you could use for your server (check below). 🧁
 [Muffin Discord](discord.gg/rYad6kW2N5)
 
