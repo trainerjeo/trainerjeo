@@ -8,7 +8,7 @@ Hey, I’m Jeo! I’m a Discord Bot developer, MCBE Developer, Web Develper. I h
 - **Web Development**: HTML, CSS, Node.js, Express.js
 - **Game Development**: Unity (C#), Minecraft Bedrock (Add-ons, Scripting)
 - **Bots**: Discord.js, Node.js, API Integration, Discord.Py
-- **Databases**: MongoDB
+- **Databases**: MongoDB(Mongoose, Prisma,SQLite)
 
 ---
 
@@ -18,7 +18,7 @@ Hey, I’m Jeo! I’m a Discord Bot developer, MCBE Developer, Web Develper. I h
 Muffin is a Discord bot that has muiltiple features you could use for your server (check below). 🧁
 [Muffin Discord](discord.gg/rYad6kW2N5)
 
-**Whats running it?**: Node.js, Discord.js, Python, Discord.py, MongoDB(Mongoose, and Prisma), and a dashboard using express!  
+**Whats running it?**: Node.js, Discord.js, Python, Discord.py, MongoDB(Mongoose, and Prisma) SQLite, and a dashboard using express!  
 **Features**:
 - Custom commands for every server
 - Server moderation tools (kick, ban, mute)
