@@ -21,10 +21,12 @@ Muffin is a Discord bot that has muiltiple features you could use for your serve
 **Whats running it?**: Node.js, Discord.js, Python, Discord.py, MongoDB(Mongoose, and Prisma) SQLite, and a [dashboard](https://muffindiscord.me/) using express!  
 **Features**:
 - Custom commands for every server
-- Server moderation tools (kick, ban, mute)
+- Server moderation tools (kick, ban, mute, cases, etc)
 - Giveaway System
 - Logging System
 - Hive Minigames Commands
+- Ticketing (Full System)
+- Beta System (You can apply in the Discord Server)
 - Some miscellaneous commands that could be useful!
 
 ---
