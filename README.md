@@ -14,11 +14,11 @@ Hey, I’m Jeo! I’m a Discord Bot developer, MCBE Developer, Web Develper. I h
 
 ## 🚀 Projects
 
-### 🧁 **[Muffin Bot](https://muffindiscord.me)**  
+### 🧁 **[Muffin Discord Bot](https://muffindiscord.me)**  
 Muffin is a Discord bot that has muiltiple features you could use for your server (check below). 🧁
 [Muffin Discord](https://discord.gg/rYad6kW2N5)
 
-**Whats running it?**: Node.js, Discord.js, Python, Discord.py, MongoDB(Mongoose, and Prisma) SQLite, and a [dashboard](https://muffindiscord.me/) using express!  
+**Whats running it?**: Node.js, Discord.js, Python, Discord.py, MongoDB(Prisma), and a [dashboard](https://muffindiscord.me/) using express!  
 **Features**:
 - Custom commands for every server
 - Server moderation tools (kick, ban, mute, cases, etc)
