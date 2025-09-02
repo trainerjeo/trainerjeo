@@ -1,45 +1,27 @@
-# 👾 Hi!
+# Hi, I’m Jeo  
 
-Hey, I’m Jeo! I’m a Discord Bot developer, MCBE Developer, Web Develper. I have been pretty busy lately on a few projects!
+I’m a developer who works on Discord bots, Minecraft Bedrock projects, and web development.  
 
-## 🛠️ What I know
+## What I Know  
+- JavaScript, TS, C#, Python, HTML, CSS  
+- Node.js, Express.js, NextJs
+- Unity (C#), Minecraft Bedrock (Add-ons, Scripting)  
+- Discord.js, Discord.py, API integration  
+- MongoDB (Mongoose, Prisma), SQLite  
+- Java (Minecraft Java Edition plugins)  
+- Linux (server setup for production use)  
 
-- **Languages**: JavaScript, C#, Python,HTML, CSS
-- **Web Development**: HTML, CSS, Node.js, Express.js
-- **Game Development**: Unity (C#), Minecraft Bedrock (Add-ons, Scripting)
-- **Bots**: Discord.js, Node.js, API Integration, Discord.Py
-- **Databases**: MongoDB(Mongoose, Prisma,SQLite)
+## Projects  
 
----
+### Muffin Discord Bot  
+[Muffin Discord Bot](https://muffindiscord.me) – A Discord bot with multiple features for your server.  
+Discord: [Muffin Discord](https://discord.gg/rYad6kW2N5)  
 
-## 🚀 Projects
+**Tech stack:** Node.js, Discord.js, MongoDB (Prisma), Next.js dashboard  
 
-### 🧁 **[Muffin Discord Bot](https://muffindiscord.me)**  
-Muffin is a Discord bot that has muiltiple features you could use for your server (check below). 🧁
-[Muffin Discord](https://discord.gg/rYad6kW2N5)
+I also contribute to WMCT (We Make Cool Things) and work on private projects.  
 
-**Whats running it?**: Node.js, Discord.js, MongoDB(Prisma), and a [dashboard](https://muffindiscord.me/) using express!  
-**Features**:
-- Custom commands for every server
-- Server moderation tools (kick, ban, mute, cases, etc)
-- Giveaway System
-- Logging System
-- Hive Minigames Commands
-- Ticketing (Full System)
-- Beta System (You can apply in the Discord Server)
-- Some miscellaneous commands that could be useful!
+## Contact  
+Discord: **trainerjeo**
 
----
-
-I also work on some things at WMCT (We Make Cool Things)!
-
-There is more projects, but they are private!
-
-
-
-
-## 🌐 Contact Me!
-
-- **Discord**: Add me on discord, my user is: trainerjeo 
-
----
+Email: [**trainerjeo@proton.me**](mailto:trainerjeo@proton.me)
